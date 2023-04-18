@@ -5,9 +5,9 @@ de un programa simple.
   2. Tener un primer contacto con las herramientas necesarias para abordar la resolución de los
 trabajos posteriores.
 ___
--Tareas:
+- Tareas:
   1. Crear cuenta en GitHub y el repositorio correspondiente.
-  2. Escribir y compilar un código de tipo "Hola Mundo en C"
-  3. Subir el readme.md, hello.c y output.txt a esta carpeta.
+   2. Escribir y compilar un código de tipo "Hola Mundo en C"
+   3. Subir el readme.md, hello.c y output.txt a esta carpeta.
 __
 - **Para esto utilicé el compilador C2x**
