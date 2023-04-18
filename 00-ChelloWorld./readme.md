@@ -1,8 +1,8 @@
 # TP0: Hola Mundo en C
 - Objetivos:
-  a. Demostrar capacidad para editar, compilar, y ejecutar programas C mediante el desarrollo
+  A. Demostrar capacidad para editar, compilar, y ejecutar programas C mediante el desarrollo
 de un programa simple.
-  b. Tener un primer contacto con las herramientas necesarias para abordar la resolución de los
+  B. Tener un primer contacto con las herramientas necesarias para abordar la resolución de los
 trabajos posteriores.
 ___
 -Tareas:
@@ -10,4 +10,4 @@ ___
   2. Escribir y compilar un código de tipo "Hola Mundo en C"
   3. Subir el readme.md, hello.c y output.txt a esta carpeta.
 __
-# **Para esto utilicé el compilador C2x**
+- **Para esto utilicé el compilador C2x**
