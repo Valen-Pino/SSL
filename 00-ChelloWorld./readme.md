@@ -1,8 +1,8 @@
 # TP0: Hola Mundo en C
 - Objetivos:
-  A. Demostrar capacidad para editar, compilar, y ejecutar programas C mediante el desarrollo
+  1. Demostrar capacidad para editar, compilar, y ejecutar programas C mediante el desarrollo
 de un programa simple.
-  B. Tener un primer contacto con las herramientas necesarias para abordar la resolución de los
+  2. Tener un primer contacto con las herramientas necesarias para abordar la resolución de los
 trabajos posteriores.
 ___
 -Tareas:
