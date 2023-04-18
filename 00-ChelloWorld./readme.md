@@ -7,7 +7,7 @@ trabajos posteriores.
 ___
 - Tareas:
 1. Crear cuenta en GitHub y el repositorio correspondiente.
-2. Escribir y compilar un código de tipo "Hola Mundo en C"
+2. Escribir y compilar un código de tipo "Hola Mundo" en C.
 3. Subir el readme.md, hello.c y output.txt a esta carpeta.
 ___
 - **Para esto utilicé el compilador C2x**
