@@ -10,4 +10,4 @@ ___
 2. Escribir y compilar un código de tipo "Hola Mundo" en C.
 3. Subir el readme.md, hello.c y output.txt a esta carpeta.
 ___
-- **Para esto utilicé el compilador C2x**
+- **Para esto utilicé el compilador MINGW con el estándar C2x**
